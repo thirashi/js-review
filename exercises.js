@@ -1,4 +1,4 @@
-/*Hey Prepstars!  By now, you should have a good understanding of the basics of Javascript. 
+/*Hey Prepstars!!!  By now, you should have a good understanding of the basics of Javascript. 
 
 The following exercises will be a good review of the materials we covered in class. Run node in your terminal to test your code.
 
