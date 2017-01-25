@@ -4,8 +4,7 @@ The following exercises will be a good review of the materials we covered in cla
 
 Don't forget to commit and push your work after each completed exercise.
 
-Go get em!*/
-
+Now, unleash your coding beast!
 
 /*1.  Variables with a String as their value.
 Declare variables named yourName, neighborName, teacherName.  Console log each variable.*/
